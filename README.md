@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Jeff Davidson
 - 👨‍💻 I currently work at Bond-Pro in Tampa, FL as a Software Support Analyst
-- 👀 I’m interested in ... expanding my knowledge & getting a promotion at work
-- 🌱 I’m currently learning ... ETL Migration
-- 💞️ I’m looking to collaborate on ... studying
+- 👀 I’m interested in ... Data Analytics, Video Game Dev, and Automating routine tasks
+- 🌱 I’m currently learning ... Machine Learning, NN's, and Big Data
+- 💞️ I’m looking to collaborate on ... learning godot
 - 📫 How to reach me ... Slack, or jeffreydavidson343@gmail.com 
 
 <!---
